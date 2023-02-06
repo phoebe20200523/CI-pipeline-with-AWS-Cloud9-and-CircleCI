@@ -1,2 +1,2 @@
 # CI-pipeline-with-AWS-Cloud9-and-CircleCI
-# test
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/phoebe20200523/CI-pipeline-with-AWS-Cloud9-and-CircleCI/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/phoebe20200523/CI-pipeline-with-AWS-Cloud9-and-CircleCI/tree/main)
